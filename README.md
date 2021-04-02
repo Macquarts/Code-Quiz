@@ -28,6 +28,7 @@ Scores can be viewed on the top left side of the page and the timer ticks on the
 
 
 ##### Deployed Link
-t https://macquarts.github.io/Code-Quiz/
+ https://macquarts.github.io/Code-Quiz/
+ 
 ###### Loading Page
  ![04-web-apis-homework-demo](https://user-images.githubusercontent.com/75565115/113411959-adf35300-93e9-11eb-85f4-c98c4dda6a61.gif)
