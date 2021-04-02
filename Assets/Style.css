@@ -1,0 +1,75 @@
+body {
+    background-color: #898989; 
+}
+
+h1, 
+h2 {
+    color: #0f0f10;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a {
+    color: #0a0b0b;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #c33b3f;
+    font-family:sans-serif;
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #c33b3f;
+}
+
+#finalScore {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family:sans-serif;
+}
+
+p {
+    font-family:sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family:sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color:rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+ /* Start media queries */
+ /* A Media Query max-width: 786px */
+@media screen and (max-width: 786px) {
+/* Resized content to fit 786px  */
+body {
+max-width: 786px;
+}
+a {
+margin-left: 20%;
+ }
+}
+
+/* A Media Query max-width: 640px */
+@media screen and (max-width: 640px) {
+/* Resized content to fit 640px  */
+body {
+min-width: 640px;
+}
+/* Resized main-content to fit 640px  */
+
+a  {
+    margin-left: 10%;
+}
+}
